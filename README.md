@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/idk/main)
 
-Use this link to create the binder:
+Use this link to launch the binder:
 https://binder.pangeo.io/v2/gh/lmcphill12hi/idk/main
 
 234 reproducibility
